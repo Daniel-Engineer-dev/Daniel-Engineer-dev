@@ -46,21 +46,12 @@ Passionate about building high-performance server-side applications and explorin
   <img src="https://github-profile-trophy.vercel.app/?username=Daniel-Engineer-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Daniel-Engineer-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed" />
-</p>
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
 
 ---
+<!-- 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Daniel-Engineer-dev&icon=0&color=0" alt="Visitor Count" />
+  <a href="https://www.buymeacoffee.com/yourusername">
+    <img src="https://img.shields.io/badge/Support%20Me-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support Me" />
   </a>
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ -->
